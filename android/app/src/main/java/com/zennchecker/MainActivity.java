@@ -1,4 +1,4 @@
-package com.gigstreamscanner;
+package com.zennchecker;
 
 import com.facebook.react.ReactActivity;
 

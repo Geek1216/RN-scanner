@@ -129,7 +129,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.gigstreamscanner"
+        applicationId "com.zennchecker"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
